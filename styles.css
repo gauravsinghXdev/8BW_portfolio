@@ -159,16 +159,15 @@ font-family: 'Jura', sans-serif;
 .fancy {
   font-weight: 400;
   font-family: 'Orbitron', sans-serif;
+
 }
 #left-side .fancy {
-  color: rgb(0, 0, 0);
-  text-shadow: 2px 0 rgb(219, 103, 122),
-  -2px 0 greenyellow,
-  -5px 0 red;
+  color: purple;
+
 }
 #right-side .fancy {
   color: #00FF00;
-  font-family: 'Fira Code', sans-serif;
+  /* font-family: 'Fira Code', sans-serif; */
 }
 section h1 {
   position: absolute;
